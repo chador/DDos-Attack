@@ -18,12 +18,12 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet chd-DDOS")
 print
-print "Author   : HA-MRX"
-print "You Tube : https://www.youtube.com/c/HA-MRX"
-print "github   : https://github.com/Ha3MrX"
-print "Facebook : https://www.facebook.com/muhamad.jabar222"
+print "Author   : Gilang"
+print  "Tools ini dibuat Untuk penelitian"
+print  "Jangan digunakan untuk hal negatif"
+print  "salam script kiddie"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
